@@ -7,7 +7,7 @@ Just focus on the essential information.
 
 
 ## 2. What are some strategies to tailor your content to different audience types?
-Make use plain language to avoid confussion, avoid fancy words.
+Make use of plain language to avoid confussion, avoid fancy words.
 Break down complex ideas by splitting them into smaller, easier-to-digest chunks.
 Use examples and visuals to explain things instead of much explanation.
 Be consistent, that is, stick to the same terms and style throughout.
